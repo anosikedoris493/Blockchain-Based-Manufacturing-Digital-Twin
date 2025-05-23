@@ -9,3 +9,5 @@ T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
 K
 contracts/optimization.clar,6/c/6cbc3f31ebe73a18390c37f294274caf1ae01e92
+I
+contracts/simulation.clar,1/1/114ff571da61d88c5ccddc2735997d879f91a393
