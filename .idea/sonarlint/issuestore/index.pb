@@ -5,3 +5,5 @@ O
 contracts/eperational-data.clar,5/e/5e5caa6435d557a472f55bf4ea31acef0c00e9ed
 U
 %contracts/equipment-registration.clar,0/0/00b513eda51a0d2d30272217fe81c0794fe41ca1
+T
+$contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
